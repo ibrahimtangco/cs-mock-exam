@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Book is to Reading as Fork is to ___?",
+    "choices": ["Drawing", "Writing", "Stirring", "Eating"],
+    "correctAnswer": "Eating"
+  },
+  {
+    "question": "Pencil is to Write as Eraser is to ___?",
+    "choices": ["Color", "Sharpen", "Erase", "Break"],
+    "correctAnswer": "Erase"
+  },
+  {
+    "question": "Fire is to Hot as Ice is to ___?",
+    "choices": ["Cold", "Melt", "Wet", "Hard"],
+    "correctAnswer": "Cold"
+  },
+  {
+    "question": "Fish is to Water as Bird is to ___?",
+    "choices": ["Nest", "Sky", "Tree", "Fly"],
+    "correctAnswer": "Sky"
+  },
+  {
+    "question": "Eye is to See as Ear is to ___?",
+    "choices": ["Smell", "Hear", "Touch", "Taste"],
+    "correctAnswer": "Hear"
+  },
+  {
+    "question": "Painter is to Brush as Writer is to ___?",
+    "choices": ["Book", "Pen", "Paper", "Typewriter"],
+    "correctAnswer": "Pen"
+  },
+  {
+    "question": "Dog is to Bark as Cat is to ___?",
+    "choices": ["Meow", "Hiss", "Growl", "Roar"],
+    "correctAnswer": "Meow"
+  },
+  {
+    "question": "Clock is to Time as Thermometer is to ___?",
+    "choices": ["Mercury", "Heat", "Weather", "Temperature"],
+    "correctAnswer": "Temperature"
+  },
+  {
+    "question": "Knife is to Cut as Spoon is to ___?",
+    "choices": ["Eat", "Serve", "Hold", "Scoop"],
+    "correctAnswer": "Scoop"
+  },
+  {
+    "question": "Pen is to Writer as Hammer is to ___?",
+    "choices": ["Wood", "Carpenter", "Nail", "Wall"],
+    "correctAnswer": "Carpenter"
+  },
+  {
+    "question": "Doctor is to Hospital as Teacher is to ___?",
+    "choices": ["Book", "Classroom", "Chalk", "Student"],
+    "correctAnswer": "Classroom"
+  },
+  {
+    "question": "Rain is to Wet as Sun is to ___?",
+    "choices": ["Cold", "Heat", "Snow", "Light"],
+    "correctAnswer": "Heat"
+  },
+  {
+    "question": "Car is to Road as Boat is to ___?",
+    "choices": ["Dock", "Water", "Sea", "Anchor"],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Smile is to Happy as Frown is to ___?",
+    "choices": ["Angry", "Mad", "Sad", "Confused"],
+    "correctAnswer": "Sad"
+  },
+  {
+    "question": "Cow is to Milk as Hen is to ___?",
+    "choices": ["Meat", "Eggs", "Feathers", "Chick"],
+    "correctAnswer": "Eggs"
+  },
+  {
+    "question": "Bird is to Fly as Snake is to ___?",
+    "choices": ["Crawl", "Slide", "Slither", "Wiggle"],
+    "correctAnswer": "Slither"
+  },
+  {
+    "question": "Foot is to Shoe as Head is to ___?",
+    "choices": ["Hat", "Hair", "Cap", "Helmet"],
+    "correctAnswer": "Hat"
+  },
+  {
+    "question": "Teacher is to Teach as Student is to ___?",
+    "choices": ["Write", "Read", "Listen", "Learn"],
+    "correctAnswer": "Learn"
+  },
+  {
+    "question": "Sun is to Day as Moon is to ___?",
+    "choices": ["Shine", "Night", "Dark", "Sky"],
+    "correctAnswer": "Night"
+  },
+  {
+    "question": "Tree is to Leaf as Flower is to ___?",
+    "choices": ["Petal", "Color", "Bud", "Stem"],
+    "correctAnswer": "Petal"
+  }
+]

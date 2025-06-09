@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Maria had always loved to paint. As a child, she would spend hours creating colorful images of people and nature. Even though she became a teacher, she continued painting on weekends. What can be inferred about Maria?",
+    "choices": [
+      "She regrets becoming a teacher.",
+      "She wants to become famous.",
+      "Painting is her passion.",
+      "She only paints for money."
+    ],
+    "correctAnswer": "Painting is her passion."
+  },
+  {
+    "question": "The town was quiet after the storm, but signs of destruction were everywhere. Trees were uprooted, windows shattered, and power lines were down. What does this passage describe?",
+    "choices": [
+      "The town had a celebration.",
+      "There was a peaceful evening.",
+      "The aftermath of a storm.",
+      "A power outage drill."
+    ],
+    "correctAnswer": "The aftermath of a storm."
+  },
+  {
+    "question": "John had studied all night and skipped breakfast to get to school early. When the test began, he could hardly keep his eyes open. What is the most likely outcome?",
+    "choices": [
+      "He will do well on the test.",
+      "He may fall asleep during the test.",
+      "He will go home immediately.",
+      "He will skip the test."
+    ],
+    "correctAnswer": "He may fall asleep during the test."
+  },
+  {
+    "question": "During the dry season, many farmers struggle as their crops fail to grow. This affects their income and food supply. What is the main idea of this passage?",
+    "choices": [
+      "Farmers need better equipment.",
+      "Rain is not important.",
+      "The dry season causes hardship for farmers.",
+      "Farmers don't work during dry seasons."
+    ],
+    "correctAnswer": "The dry season causes hardship for farmers."
+  },
+  {
+    "question": "Anna donated her old books to the school library. She believed others could benefit from them just as she did. What does this say about Anna?",
+    "choices": [
+      "She didn’t like reading.",
+      "She is generous and thoughtful.",
+      "She wanted to empty her shelves.",
+      "She dislikes the school library."
+    ],
+    "correctAnswer": "She is generous and thoughtful."
+  },
+  {
+    "question": "Despite being tired, Carlos continued working late into the night. He had a deadline to meet. What drives Carlos to keep working?",
+    "choices": [
+      "Fear of his boss.",
+      "Desire to finish on time.",
+      "He enjoys staying late.",
+      "He has nothing else to do."
+    ],
+    "correctAnswer": "Desire to finish on time."
+  },
+  {
+    "question": "Liza watched the news every evening to stay informed about current events. Why does Liza watch the news?",
+    "choices": [
+      "She wants to be a journalist.",
+      "She enjoys watching TV.",
+      "She likes to stay informed.",
+      "She doesn’t have internet."
+    ],
+    "correctAnswer": "She likes to stay informed."
+  },
+  {
+    "question": "The students cheered when the principal announced a holiday next Friday. What is the mood of the students?",
+    "choices": [
+      "Sad",
+      "Angry",
+      "Excited",
+      "Confused"
+    ],
+    "correctAnswer": "Excited"
+  },
+  {
+    "question": "Peter watered his plants every day, but they still wilted. Later, he discovered the soil lacked nutrients. What is the cause of the wilting?",
+    "choices": [
+      "Too much water",
+      "Lack of sunlight",
+      "Poor soil nutrients",
+      "Overgrowth"
+    ],
+    "correctAnswer": "Poor soil nutrients"
+  },
+  {
+    "question": "The train was delayed due to heavy rains and flooding on the tracks. Which of the following is true?",
+    "choices": [
+      "Flooding caused the delay.",
+      "The train left early.",
+      "There was a technical problem.",
+      "It was a sunny day."
+    ],
+    "correctAnswer": "Flooding caused the delay."
+  },
+  {
+    "question": "Despite several attempts, Jenny could not open the jar. She asked her brother for help. What does this show about Jenny?",
+    "choices": [
+      "She gives up easily.",
+      "She is not resourceful.",
+      "She seeks help when needed.",
+      "She never tries."
+    ],
+    "correctAnswer": "She seeks help when needed."
+  },
+  {
+    "question": "The restaurant was famous for its delicious seafood dishes. People from nearby towns came to eat there. What made the restaurant popular?",
+    "choices": [
+      "Its location",
+      "The interior design",
+      "Delicious seafood",
+      "Cheap prices"
+    ],
+    "correctAnswer": "Delicious seafood"
+  },
+  {
+    "question": "Carlos rushed out of the house when he realized he had left his phone in the taxi. What is most likely his emotion?",
+    "choices": [
+      "Excitement",
+      "Worry",
+      "Joy",
+      "Boredom"
+    ],
+    "correctAnswer": "Worry"
+  },
+  {
+    "question": "Rain poured for hours, flooding the streets. Many residents stayed indoors for safety. What is the best title for this passage?",
+    "choices": [
+      "A Summer Celebration",
+      "A Normal Morning",
+      "Stormy Weather",
+      "Street Renovation"
+    ],
+    "correctAnswer": "Stormy Weather"
+  },
+  {
+    "question": "Although the instructions were clear, Mark skipped some steps and the shelf collapsed. What caused the failure?",
+    "choices": [
+      "Weak materials",
+      "Lack of tools",
+      "Skipping instructions",
+      "Wrong instructions"
+    ],
+    "correctAnswer": "Skipping instructions"
+  },
+  {
+    "question": "Leah’s eyes widened in shock when she saw her test score. It was higher than she expected. What does this indicate?",
+    "choices": [
+      "She didn’t study.",
+      "She was surprised by her high score.",
+      "She failed the test.",
+      "She copied the answers."
+    ],
+    "correctAnswer": "She was surprised by her high score."
+  },
+  {
+    "question": "Tina and her family went to the beach every summer. It was a tradition they looked forward to. What does this passage suggest?",
+    "choices": [
+      "They hate the beach.",
+      "They are bored of the tradition.",
+      "They enjoy spending summer together.",
+      "They live near the beach."
+    ],
+    "correctAnswer": "They enjoy spending summer together."
+  },
+  {
+    "question": "Ben always checks the weather forecast before going on a hike. Why does he do this?",
+    "choices": [
+      "He wants to plan better.",
+      "He’s scared of animals.",
+      "He wants to stay indoors.",
+      "He doesn't like hiking."
+    ],
+    "correctAnswer": "He wants to plan better."
+  },
+  {
+    "question": "The children whispered while the baby slept. What were they trying to do?",
+    "choices": [
+      "Wake the baby",
+      "Hide a secret",
+      "Avoid disturbing the baby",
+      "Play a game"
+    ],
+    "correctAnswer": "Avoid disturbing the baby"
+  },
+  {
+    "question": "As soon as the bell rang, the students packed up their things and rushed out of the classroom. What time was it likely?",
+    "choices": [
+      "Recess",
+      "Lunchtime",
+      "Dismissal",
+      "Exam time"
+    ],
+    "correctAnswer": "Dismissal"
+  }
+]

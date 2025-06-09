@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which filing method arranges documents by date and time?",
+    "choices": ["Alphabetical", "Chronological", "Numerical", "Geographical"],
+    "correctAnswer": "Chronological"
+  },
+  {
+    "question": "In a business letter, what comes after the salutation?",
+    "choices": ["Subject line", "Body of the letter", "Signature", "Date"],
+    "correctAnswer": "Body of the letter"
+  },
+  {
+    "question": "Which of the following is a common office machine used for duplication?",
+    "choices": ["Photocopier", "Calculator", "Scanner", "Shredder"],
+    "correctAnswer": "Photocopier"
+  },
+  {
+    "question": "What does ‘cc’ stand for in a business email?",
+    "choices": ["Current Copy", "Carbon Copy", "Clear Copy", "Corporate Copy"],
+    "correctAnswer": "Carbon Copy"
+  },
+  {
+    "question": "What is the primary purpose of a memo?",
+    "choices": ["To entertain", "To inform within the organization", "To persuade clients", "To advertise products"],
+    "correctAnswer": "To inform within the organization"
+  },
+  {
+    "question": "What part of a letter contains the writer's name and signature?",
+    "choices": ["Heading", "Salutation", "Body", "Closing"],
+    "correctAnswer": "Closing"
+  },
+  {
+    "question": "Which of the following best describes a filing cabinet?",
+    "choices": ["A communication tool", "A storage unit", "An accounting system", "A writing device"],
+    "correctAnswer": "A storage unit"
+  },
+  {
+    "question": "Which abbreviation is used when an attachment is included in a letter?",
+    "choices": ["Re", "Cc", "Att", "Encl"],
+    "correctAnswer": "Encl"
+  },
+  {
+    "question": "What is the best way to handle confidential documents?",
+    "choices": ["Leave them on your desk", "File them alphabetically", "Secure them in a locked drawer", "Email them to your coworkers"],
+    "correctAnswer": "Secure them in a locked drawer"
+  },
+  {
+    "question": "What is proofreading?",
+    "choices": ["Typing a letter", "Correcting grammar and errors", "Sending an email", "Filing documents"],
+    "correctAnswer": "Correcting grammar and errors"
+  },
+  {
+    "question": "In a meeting agenda, what is typically listed first?",
+    "choices": ["Closing remarks", "Old business", "New business", "Call to order"],
+    "correctAnswer": "Call to order"
+  },
+  {
+    "question": "Which of the following is NOT part of the 5Ws in report writing?",
+    "choices": ["Who", "What", "When", "Why not"],
+    "correctAnswer": "Why not"
+  },
+  {
+    "question": "A typewriter is considered what kind of equipment?",
+    "choices": ["Digital", "Mechanical", "Electronic", "Analog"],
+    "correctAnswer": "Mechanical"
+  },
+  {
+    "question": "Which is used to record incoming and outgoing communications?",
+    "choices": ["Ledger", "Logbook", "Memo pad", "Notepad"],
+    "correctAnswer": "Logbook"
+  },
+  {
+    "question": "What does the acronym 'FAQ' stand for?",
+    "choices": ["Fast Answered Questions", "Frequently Asked Questions", "Final Asked Questions", "Frequently Answered Queries"],
+    "correctAnswer": "Frequently Asked Questions"
+  },
+  {
+    "question": "Which of the following is a good practice when answering the phone in an office?",
+    "choices": ["Say hello and wait", "Greet and identify yourself and your department", "Just say 'yes?'", "Stay silent and listen"],
+    "correctAnswer": "Greet and identify yourself and your department"
+  },
+  {
+    "question": "Which envelope is most appropriate for business correspondence?",
+    "choices": ["Square envelope", "Legal envelope", "Window envelope", "Greeting card envelope"],
+    "correctAnswer": "Window envelope"
+  },
+  {
+    "question": "When arranging files alphabetically, which comes first?",
+    "choices": ["MacArthur", "McAdams", "McArthur", "MacAdams"],
+    "correctAnswer": "MacAdams"
+  },
+  {
+    "question": "What is the purpose of a reference number in a business letter?",
+    "choices": ["To greet the recipient", "To indicate urgency", "To identify the subject", "To track correspondence"],
+    "correctAnswer": "To track correspondence"
+  },
+  {
+    "question": "What document summarizes the proceedings and decisions of a meeting?",
+    "choices": ["Agenda", "Minutes", "Memo", "Resolution"],
+    "correctAnswer": "Minutes"
+  }
+]
