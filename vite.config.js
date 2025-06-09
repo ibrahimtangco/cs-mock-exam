@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/cs-mock-exam/'
+   base: '/cs-mock-exam/'
 })

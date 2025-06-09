@@ -10,7 +10,7 @@ import ModePages from "./pages/ModesPage.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/cs-mock-exam">
       <Routes>
         <Route index path="/" element={<App />} />
         <Route path="*" element={<InvalidURL />} />
