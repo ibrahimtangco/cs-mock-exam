@@ -5,21 +5,21 @@ function QuizzesContainer() {
   const examCategories = [
     {
       url: "/general-information",
-      image: "/images/categories/general-information.png",
+      image: "/images/categories/generalinformation.png",
       title: "General Information",
       description:
         "Current events, Philippine Constitution, government structure, and Code of Conduct.",
     },
     {
       url: "/vocabulary-grammar",
-      image: "/images/categories/vocabulary-grammar.png",
+      image: "/images/categories/vocabularygrammar.png",
       title: "Vocabulary & Grammar",
       description:
         "Questions on word meanings, sentence structure, tenses, and grammar usage.",
     },
     {
       url: "/reading-comprehension",
-      image: "/images/categories/reading-comprehension.png",
+      image: "/images/categories/readingcomprehension.png",
       title: "Reading Comprehension",
       description:
         "Passages with questions testing understanding and interpretation in English.",
@@ -51,7 +51,7 @@ function QuizzesContainer() {
       <h1 className="text-center font-semibold text-3xl mb-6">
         Your Gateway to Civil Service Success
       </h1>
-      <section className="grid gap-8 px-4 sm:grid-cols-2 lg:grid-cols-4">
+      <section className="grid gap-8 px-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         {examCategories.map((category, index) => (
           <CategoryItem key={index} category={category} />
         ))}

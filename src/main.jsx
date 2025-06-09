@@ -12,7 +12,7 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route index path="/" element={<App />} />
         <Route path="*" element={<InvalidURL />} />
         <Route path="/category/:slug" element={<ModePages />} />
         <Route path="/category/:slug/:mode" element={<QuizPage />} />
