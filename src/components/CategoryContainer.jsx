@@ -1,57 +1,54 @@
 import React from "react";
 import CategoryItem from "./CategoryItem";
-
 function QuizzesContainer() {
   const examCategories = [
     {
-      url: "/general-information",
-      image: "/images/categories/generalinformation.png",
-      title: "General Information",
-      description:
-        "Current events, Philippine Constitution, government structure, and Code of Conduct.",
-    },
-    {
-      url: "/vocabulary-grammar",
-      image: "/images/categories/vocabularygrammar.png",
-      title: "Vocabulary & Grammar",
-      description:
-        "Questions on word meanings, sentence structure, tenses, and grammar usage.",
-    },
-    {
-      url: "/reading-comprehension",
-      image: "/images/categories/readingcomprehension.png",
-      title: "Reading Comprehension",
-      description:
-        "Passages with questions testing understanding and interpretation in English.",
-    },
-    {
-      url: "/analogy-logic",
-      image: null,
-      title: "Analogy & Logic",
-      description:
-        "Identifying relationships, patterns, sequences, and drawing logical conclusions.",
-    },
-    {
-      url: "/numeric-ability",
-      image: null,
+      url: "/numerical-ability",
+      image: "/cs-mock-exam/images/categories/numerical.jpg",
       title: "Numerical Ability",
       description:
-        "Arithmetic problems, percentages, ratios, data interpretation, and word problems.",
+        "Basic operations, word problems, ratios, unit conversions, interest calculations, and real-life math scenarios.",
     },
     {
-      url: "/clerical-operations",
-      image: null,
-      title: "Clerical Operations",
+      url: "/analytical-ability",
+      image: "/cs-mock-exam/images/categories/analytical.jpg",
+
+      title: "Analytical Ability",
       description:
-        "Sub‑Professional level: filing, sorting, clerical accuracy and attention to detail.",
+        "Logic, pattern recognition, word associations, data interpretation, assumptions, conclusions, and reasoning.",
+    },
+    {
+      url: "/verbal-ability",
+      image: "/cs-mock-exam/images/categories/verbal.png",
+
+      title: "Verbal Ability",
+      description:
+        "English grammar, sentence structure, vocabulary, paragraph organization, and reading comprehension.",
+    },
+    {
+      url: "/clerical-ability",
+      image: "/cs-mock-exam/images/categories/clerical.png",
+
+      title: "Clerical Ability",
+      description:
+        "Filing rules, spelling, sequencing, and attention to detail often required in clerical tasks.",
+    },
+    {
+      url: "/general-information",
+      image: "/cs-mock-exam/images/categories/general.jpg",
+
+      title: "General Information",
+      description:
+        "Philippine Constitution, government structure, ethical standards, human rights, and environmental awareness.",
     },
   ];
+
   return (
     <div className="container mx-auto text-gray-900 my-12">
       <h1 className="text-center font-semibold text-3xl mb-6">
         Your Gateway to Civil Service Success
       </h1>
-      <section className="grid gap-8 px-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+      <section className="grid gap-8 px-4 sm:grid-cols-2 md:grid-cols-2 xl:grid-cols-4">
         {examCategories.map((category, index) => (
           <CategoryItem key={index} category={category} />
         ))}

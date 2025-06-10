@@ -22,7 +22,6 @@ function ModePages() {
   ];
   const location = useLocation();
   const title = location.state?.title || "";
-  const navigate = useNavigate();
 
   return (
     <div className="container mx-auto text-gray-900 my-12 px-4">

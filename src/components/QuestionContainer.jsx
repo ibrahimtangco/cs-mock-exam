@@ -46,7 +46,10 @@ function QuestionContainer({
         <span className="text-gray-800">
           Question: {questionNum + 1}/{totalQuestion}
         </span>
-        <button onClick={handleQuit} className="text-red-600 cursor-pointer">
+        <button
+          onClick={handleQuit}
+          className="text-red-600 cursor-pointer tracking-wide"
+        >
           Quit
         </button>
       </div>
@@ -58,7 +61,7 @@ function QuestionContainer({
           <button
             onClick={() => handleOnClickOption(question.correctAnswer, choice)}
             key={index}
-            className={`p-4 rounded-lg shadow-[0px_0px_20px_-2px_rgba(0,_0,_0,_0.2)] text-left cursor-pointer transition-colors duration-300 ease-in-out hover:bg-gray-900 hover:text-white active:bg-green-500 ${
+            className={`p-4 rounded-lg shadow-[0px_0px_20px_-2px_rgba(0,_0,_0,_0.1)] text-left cursor-pointer transition-colors duration-300 ease-in-out hover:bg-gray-900 hover:text-white active:bg-green-500 ${
               selectedOption === choice
                 ? "bg-green-600 hover:bg-green-600 text-white"
                 : ""

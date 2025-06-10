@@ -1,4 +1,4 @@
-import React, { use, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import QuestionContainer from "../components/QuestionContainer";
 import Loading from "../components/Loading";
@@ -13,6 +13,7 @@ function QuizPage() {
   const [score, setScore] = useState(0);
   const [noSelectedErr, setNoSelectedErr] = useState("");
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [fetchDataErr, setFetchDataErr] = useState("");
 
   const formattedTitle = slug
     .split("-")
@@ -23,18 +24,26 @@ function QuizPage() {
     const loadQuestions = async () => {
       try {
         const data = await import(`../data/${slug}.json`);
-        setQuestions(data.default);
+        const allQuestions = data.default;
+
+        // Shuffle the array
+        const shuffled = allQuestions.sort(() => 0.5 - Math.random());
+
+        // Get the first 30 unique questions
+        const selected = shuffled.slice(0, 30);
+
+        setQuestions(selected);
       } catch (error) {
-        console.error(`Failed to load questions for ${slug}:`, error);
+        setFetchDataErr(`Failed to load questions for ${slug}:`, error);
         setQuestions([]);
       } finally {
         setTimeout(() => {
           setIsLoading(false);
-        }, 500);
+        }, 300);
       }
     };
 
-    loadQuestions();
+    if (slug) loadQuestions();
   }, [slug]);
 
   const handleNextEvent = () => {
@@ -50,10 +59,6 @@ function QuizPage() {
   const handlePreviousEvent = () => {
     setQuestionNum(questionNum - 1);
   };
-
-  const handleSubmit = () => {
-    setIsSubmitted(true);
-  };
   return (
     <>
       {isLoading ? (
@@ -66,23 +71,29 @@ function QuizPage() {
             </h1>
           </div>
           <div className="mt-8 md:mt-12 flex items-center justify-center">
-            {!isSubmitted ? (
-              <QuestionContainer
-                question={questions[questionNum]}
-                totalQuestion={questions.length}
-                questionNum={questionNum}
-                handleNextEvent={handleNextEvent}
-                handlePreviousEvent={handlePreviousEvent}
-                setScore={setScore}
-                score={score}
-                answers={answers}
-                setAnswers={setAnswers}
-                noSelectedErr={noSelectedErr}
-                setNoSelectedErr={setNoSelectedErr}
-                setIsSubmitted={setIsSubmitted}
-              />
+            {fetchDataErr ? (
+              <p className="text-red-500">{fetchDataErr}</p>
             ) : (
-              <Score score={score} totalQuestion={questions.length} />
+              <>
+                {!isSubmitted ? (
+                  <QuestionContainer
+                    question={questions[questionNum]}
+                    totalQuestion={questions.length}
+                    questionNum={questionNum}
+                    handleNextEvent={handleNextEvent}
+                    handlePreviousEvent={handlePreviousEvent}
+                    setScore={setScore}
+                    score={score}
+                    answers={answers}
+                    setAnswers={setAnswers}
+                    noSelectedErr={noSelectedErr}
+                    setNoSelectedErr={setNoSelectedErr}
+                    setIsSubmitted={setIsSubmitted}
+                  />
+                ) : (
+                  <Score score={score} totalQuestion={questions.length} />
+                )}
+              </>
             )}
           </div>
         </div>

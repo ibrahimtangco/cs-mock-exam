@@ -1,102 +1,1002 @@
 [
   {
-    "question": "What is the highest law of the Philippines?",
-    "choices": ["The Revised Penal Code", "The Civil Code", "The Constitution", "The Local Government Code"],
-    "correctAnswer": "The Constitution"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "Who is considered the Father of the Philippine Constitution?",
-    "choices": ["Manuel Roxas", "Apolinario Mabini", "Emilio Aguinaldo", "Felipe Calderón"],
-    "correctAnswer": "Felipe Calderón"
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
   },
   {
-    "question": "What is the capital of the Philippines?",
-    "choices": ["Quezon City", "Cebu", "Manila", "Davao"],
-    "correctAnswer": "Manila"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "What branch of government interprets the law?",
-    "choices": ["Executive", "Legislative", "Judicial", "Commission on Audit"],
-    "correctAnswer": "Judicial"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "When is Philippine Independence Day celebrated?",
-    "choices": ["June 12", "July 4", "August 21", "September 21"],
-    "correctAnswer": "June 12"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "Who was the first President of the Republic of the Philippines?",
-    "choices": ["Emilio Aguinaldo", "Manuel Quezon", "Jose P. Laurel", "Sergio Osmeña"],
-    "correctAnswer": "Emilio Aguinaldo"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "What is the term of office of the President of the Philippines?",
-    "choices": ["4 years", "5 years", "6 years", "7 years"],
-    "correctAnswer": "6 years"
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
   },
   {
-    "question": "Who heads the executive branch of government?",
-    "choices": ["Chief Justice", "President", "Senate President", "Speaker of the House"],
-    "correctAnswer": "President"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "What is the national language of the Philippines?",
-    "choices": ["Filipino", "Tagalog", "English", "Bisaya"],
-    "correctAnswer": "Filipino"
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
   },
   {
-    "question": "Which body has the power to declare the existence of a state of war?",
-    "choices": ["President", "Supreme Court", "Congress", "Department of National Defense"],
-    "correctAnswer": "Congress"
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
   },
   {
-    "question": "Who is the current Vice President of the Philippines as of 2025?",
-    "choices": ["Sara Duterte", "Leni Robredo", "Kiko Pangilinan", "Bam Aquino"],
-    "correctAnswer": "Sara Duterte"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "What agency is responsible for conducting the Civil Service Examination?",
-    "choices": ["DOLE", "CHED", "PRC", "CSC"],
-    "correctAnswer": "CSC"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "How many regions are there in the Philippines?",
-    "choices": ["17", "13", "18", "16"],
-    "correctAnswer": "17"
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
   },
   {
-    "question": "Who has the power to appoint judges of the lower courts?",
-    "choices": ["Congress", "Supreme Court", "Judicial and Bar Council", "President"],
-    "correctAnswer": "President"
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
   },
   {
-    "question": "Which island group is the largest in the Philippines?",
-    "choices": ["Luzon", "Visayas", "Mindanao", "Palawan"],
-    "correctAnswer": "Luzon"
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
   },
   {
-    "question": "What document declares the Philippines a democratic and republican state?",
-    "choices": ["Bill of Rights", "Preamble", "Constitution", "Declaration of Independence"],
-    "correctAnswer": "Constitution"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "How many senators are there in the Philippines?",
-    "choices": ["12", "24", "50", "30"],
-    "correctAnswer": "24"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "Which is the highest court in the Philippines?",
-    "choices": ["Court of Appeals", "Sandiganbayan", "Regional Trial Court", "Supreme Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
   },
   {
-    "question": "What is the term for laws passed by Congress?",
-    "choices": ["Bills", "Acts", "Ordinances", "Proclamations"],
-    "correctAnswer": "Acts"
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   },
   {
-    "question": "Which article of the Constitution outlines the Bill of Rights?",
-    "choices": ["Article I", "Article II", "Article III", "Article IV"],
-    "correctAnswer": "Article III"
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "According to the 1987 Philippine Constitution, what is the primary duty of the government?",
+    "choices": [
+      "To serve and protect the people",
+      "To promote foreign investment",
+      "To maintain political alliances",
+      "To regulate religious organizations"
+    ],
+    "correctAnswer": "To serve and protect the people"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
+  },
+  {
+    "question": "Which of the following practices best demonstrates sustainable development?",
+    "choices": [
+      "Recycling and using renewable resources",
+      "Increasing industrial emissions",
+      "Converting forests to subdivisions",
+      "Relying solely on fossil fuels"
+    ],
+    "correctAnswer": "Recycling and using renewable resources"
+  },
+  {
+    "question": "Under R.A. 6713, public officials must uphold which of the following as one of the norms of conduct?",
+    "choices": [
+      "Political partisanship",
+      "Commitment to public interest",
+      "Personal economic gain",
+      "Confidentiality over transparency"
+    ],
+    "correctAnswer": "Commitment to public interest"
+  },
+  {
+    "question": "Which of the following is a basic human right protected under international law?",
+    "choices": [
+      "Right to education",
+      "Right to impose censorship",
+      "Right to discriminate",
+      "Right to detain without trial"
+    ],
+    "correctAnswer": "Right to education"
   }
 ]

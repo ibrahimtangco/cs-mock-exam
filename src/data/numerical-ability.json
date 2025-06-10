@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Evaluate: (37 + 17) * 9",
+    "choices": [
+      "468",
+      "486",
+      "495",
+      "540"
+    ],
+    "correctAnswer": "486"
+  },
+  {
+    "question": "Evaluate: (22 + 7) * 7",
+    "choices": [
+      "210",
+      "189",
+      "232",
+      "203"
+    ],
+    "correctAnswer": "203"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 819. What is the original number?",
+    "choices": [
+      "666",
+      "679",
+      "630",
+      "640"
+    ],
+    "correctAnswer": "630"
+  },
+  {
+    "question": "Evaluate: (50 + 6) * 2",
+    "choices": [
+      "112",
+      "168",
+      "108",
+      "114"
+    ],
+    "correctAnswer": "112"
+  },
+  {
+    "question": "Evaluate: (28 + 7) * 7",
+    "choices": [
+      "280",
+      "245",
+      "252",
+      "231"
+    ],
+    "correctAnswer": "245"
+  },
+  {
+    "question": "Evaluate: (24 + 5) * 10",
+    "choices": [
+      "290",
+      "319",
+      "300",
+      "270"
+    ],
+    "correctAnswer": "290"
+  },
+  {
+    "question": "Evaluate: (29 + 7) * 4",
+    "choices": [
+      "136",
+      "148",
+      "144",
+      "180"
+    ],
+    "correctAnswer": "144"
+  },
+  {
+    "question": "Evaluate: (47 + 17) * 5",
+    "choices": [
+      "325",
+      "320",
+      "384",
+      "310"
+    ],
+    "correctAnswer": "320"
+  },
+  {
+    "question": "Evaluate: (45 + 11) * 1",
+    "choices": [
+      "54",
+      "57",
+      "56",
+      "112"
+    ],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 753. What is the original number?",
+    "choices": [
+      "591",
+      "589",
+      "628",
+      "603"
+    ],
+    "correctAnswer": "628"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 538. What is the original number?",
+    "choices": [
+      "438",
+      "465",
+      "449",
+      "471"
+    ],
+    "correctAnswer": "449"
+  },
+  {
+    "question": "Evaluate: (11 + 6) * 1",
+    "choices": [
+      "34",
+      "17",
+      "18",
+      "15"
+    ],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 152. What is the original number?",
+    "choices": [
+      "139",
+      "180",
+      "177",
+      "132"
+    ],
+    "correctAnswer": "139"
+  },
+  {
+    "question": "A car's value depreciates 10% annually. If the original value is \u20b1500,000, what is its value after 2 years?",
+    "choices": [
+      "\u20b1405,000",
+      "\u20b1450,000",
+      "\u20b1400,000",
+      "\u20b1410,000"
+    ],
+    "correctAnswer": "\u20b1405,000"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 292. What is the original number?",
+    "choices": [
+      "215",
+      "244",
+      "242",
+      "202"
+    ],
+    "correctAnswer": "244"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 782. What is the original number?",
+    "choices": [
+      "602",
+      "574",
+      "575",
+      "616"
+    ],
+    "correctAnswer": "602"
+  },
+  {
+    "question": "Evaluate: (46 + 5) * 10",
+    "choices": [
+      "490",
+      "510",
+      "561",
+      "520"
+    ],
+    "correctAnswer": "510"
+  },
+  {
+    "question": "Evaluate: (24 + 9) * 4",
+    "choices": [
+      "124",
+      "136",
+      "165",
+      "132"
+    ],
+    "correctAnswer": "132"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 1070. What is the original number?",
+    "choices": [
+      "939",
+      "892",
+      "861",
+      "858"
+    ],
+    "correctAnswer": "892"
+  },
+  {
+    "question": "Evaluate: (44 + 20) * 7",
+    "choices": [
+      "455",
+      "448",
+      "512",
+      "434"
+    ],
+    "correctAnswer": "448"
+  },
+  {
+    "question": "Evaluate: (23 + 9) * 7",
+    "choices": [
+      "224",
+      "210",
+      "256",
+      "231"
+    ],
+    "correctAnswer": "224"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 695. What is the original number?",
+    "choices": [
+      "625",
+      "632",
+      "594",
+      "674"
+    ],
+    "correctAnswer": "632"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 1035. What is the original number?",
+    "choices": [
+      "863",
+      "826",
+      "851",
+      "899"
+    ],
+    "correctAnswer": "863"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 748. What is the original number?",
+    "choices": [
+      "660",
+      "624",
+      "647",
+      "639"
+    ],
+    "correctAnswer": "624"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 1005. What is the original number?",
+    "choices": [
+      "940",
+      "865",
+      "914",
+      "930"
+    ],
+    "correctAnswer": "914"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 885. What is the original number?",
+    "choices": [
+      "708",
+      "661",
+      "755",
+      "669"
+    ],
+    "correctAnswer": "708"
+  },
+  {
+    "question": "Evaluate: (18 + 14) * 2",
+    "choices": [
+      "60",
+      "64",
+      "96",
+      "66"
+    ],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 1157. What is the original number?",
+    "choices": [
+      "845",
+      "874",
+      "871",
+      "890"
+    ],
+    "correctAnswer": "890"
+  },
+  {
+    "question": "Evaluate: (29 + 9) * 6",
+    "choices": [
+      "216",
+      "234",
+      "266",
+      "228"
+    ],
+    "correctAnswer": "228"
+  },
+  {
+    "question": "Evaluate: (24 + 8) * 5",
+    "choices": [
+      "160",
+      "192",
+      "165",
+      "150"
+    ],
+    "correctAnswer": "160"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 520. What is the original number?",
+    "choices": [
+      "372",
+      "413",
+      "439",
+      "400"
+    ],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 209. What is the original number?",
+    "choices": [
+      "190",
+      "235",
+      "193",
+      "208"
+    ],
+    "correctAnswer": "190"
+  },
+  {
+    "question": "A train travels 240 km in 3 hours and returns in 4 hours. What is the average speed of the entire journey?",
+    "choices": [
+      "60 km/h",
+      "57.14 km/h",
+      "64 km/h",
+      "62 km/h"
+    ],
+    "correctAnswer": "60 km/h"
+  },
+  {
+    "question": "Evaluate: (36 + 8) * 1",
+    "choices": [
+      "44",
+      "88",
+      "45",
+      "42"
+    ],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Evaluate: (50 + 20) * 10",
+    "choices": [
+      "680",
+      "700",
+      "710",
+      "770"
+    ],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Evaluate: (40 + 6) * 9",
+    "choices": [
+      "414",
+      "423",
+      "396",
+      "460"
+    ],
+    "correctAnswer": "414"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 1081. What is the original number?",
+    "choices": [
+      "983",
+      "1015",
+      "991",
+      "949"
+    ],
+    "correctAnswer": "983"
+  },
+  {
+    "question": "Evaluate: (48 + 14) * 5",
+    "choices": [
+      "310",
+      "300",
+      "372",
+      "315"
+    ],
+    "correctAnswer": "310"
+  },
+  {
+    "question": "Evaluate: (33 + 12) * 8",
+    "choices": [
+      "344",
+      "360",
+      "368",
+      "405"
+    ],
+    "correctAnswer": "360"
+  },
+  {
+    "question": "Evaluate: (18 + 2) * 4",
+    "choices": [
+      "84",
+      "80",
+      "100",
+      "72"
+    ],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 976. What is the original number?",
+    "choices": [
+      "931",
+      "938",
+      "881",
+      "888"
+    ],
+    "correctAnswer": "888"
+  },
+  {
+    "question": "Evaluate: (41 + 1) * 10",
+    "choices": [
+      "430",
+      "420",
+      "400",
+      "462"
+    ],
+    "correctAnswer": "420"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 134. What is the original number?",
+    "choices": [
+      "164",
+      "75",
+      "90",
+      "122"
+    ],
+    "correctAnswer": "122"
+  },
+  {
+    "question": "Evaluate: (32 + 7) * 2",
+    "choices": [
+      "80",
+      "74",
+      "78",
+      "117"
+    ],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Evaluate: (13 + 10) * 7",
+    "choices": [
+      "147",
+      "184",
+      "161",
+      "168"
+    ],
+    "correctAnswer": "161"
+  },
+  {
+    "question": "Evaluate: (19 + 11) * 10",
+    "choices": [
+      "280",
+      "300",
+      "310",
+      "330"
+    ],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Evaluate: (36 + 14) * 2",
+    "choices": [
+      "96",
+      "150",
+      "102",
+      "100"
+    ],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 206. What is the original number?",
+    "choices": [
+      "173",
+      "188",
+      "208",
+      "237"
+    ],
+    "correctAnswer": "188"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 440. What is the original number?",
+    "choices": [
+      "381",
+      "367",
+      "413",
+      "400"
+    ],
+    "correctAnswer": "367"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 279. What is the original number?",
+    "choices": [
+      "199",
+      "186",
+      "233",
+      "258"
+    ],
+    "correctAnswer": "233"
+  },
+  {
+    "question": "Evaluate: (19 + 13) * 8",
+    "choices": [
+      "264",
+      "256",
+      "288",
+      "240"
+    ],
+    "correctAnswer": "256"
+  },
+  {
+    "question": "A man invests \u20b120,000 at an interest rate of 6% per annum. What is the simple interest earned in 3 years?",
+    "choices": [
+      "\u20b13,600",
+      "\u20b14,000",
+      "\u20b13,200",
+      "\u20b13,000"
+    ],
+    "correctAnswer": "\u20b13,600"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 492. What is the original number?",
+    "choices": [
+      "410",
+      "408",
+      "423",
+      "413"
+    ],
+    "correctAnswer": "410"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 1052. What is the original number?",
+    "choices": [
+      "908",
+      "920",
+      "957",
+      "925"
+    ],
+    "correctAnswer": "957"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 532. What is the original number?",
+    "choices": [
+      "485",
+      "444",
+      "454",
+      "484"
+    ],
+    "correctAnswer": "444"
+  },
+  {
+    "question": "Evaluate: (14 + 13) * 10",
+    "choices": [
+      "280",
+      "250",
+      "297",
+      "270"
+    ],
+    "correctAnswer": "270"
+  },
+  {
+    "question": "Evaluate: (38 + 6) * 7",
+    "choices": [
+      "308",
+      "352",
+      "315",
+      "294"
+    ],
+    "correctAnswer": "308"
+  },
+  {
+    "question": "Evaluate: (45 + 12) * 1",
+    "choices": [
+      "55",
+      "114",
+      "58",
+      "57"
+    ],
+    "correctAnswer": "57"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 193. What is the original number?",
+    "choices": [
+      "176",
+      "157",
+      "146",
+      "222"
+    ],
+    "correctAnswer": "176"
+  },
+  {
+    "question": "Evaluate: (29 + 9) * 9",
+    "choices": [
+      "351",
+      "324",
+      "342",
+      "380"
+    ],
+    "correctAnswer": "342"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 864. What is the original number?",
+    "choices": [
+      "693",
+      "684",
+      "720",
+      "744"
+    ],
+    "correctAnswer": "720"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 477. What is the original number?",
+    "choices": [
+      "336",
+      "367",
+      "369",
+      "412"
+    ],
+    "correctAnswer": "367"
+  },
+  {
+    "question": "Evaluate: (36 + 20) * 6",
+    "choices": [
+      "336",
+      "342",
+      "392",
+      "324"
+    ],
+    "correctAnswer": "336"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 1141. What is the original number?",
+    "choices": [
+      "880",
+      "909",
+      "878",
+      "870"
+    ],
+    "correctAnswer": "878"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 212. What is the original number?",
+    "choices": [
+      "129",
+      "160",
+      "177",
+      "207"
+    ],
+    "correctAnswer": "177"
+  },
+  {
+    "question": "Evaluate: (27 + 5) * 9",
+    "choices": [
+      "288",
+      "297",
+      "270",
+      "320"
+    ],
+    "correctAnswer": "288"
+  },
+  {
+    "question": "Evaluate: (47 + 4) * 5",
+    "choices": [
+      "245",
+      "260",
+      "255",
+      "306"
+    ],
+    "correctAnswer": "255"
+  },
+  {
+    "question": "A number increased by 20% becomes 144. What is the original number?",
+    "choices": [
+      "120",
+      "115",
+      "130",
+      "125"
+    ],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Evaluate: (25 + 7) * 3",
+    "choices": [
+      "96",
+      "99",
+      "90",
+      "128"
+    ],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Evaluate: (42 + 3) * 1",
+    "choices": [
+      "45",
+      "46",
+      "43",
+      "90"
+    ],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 700. What is the original number?",
+    "choices": [
+      "528",
+      "539",
+      "556",
+      "516"
+    ],
+    "correctAnswer": "539"
+  },
+  {
+    "question": "Evaluate: (23 + 16) * 10",
+    "choices": [
+      "429",
+      "400",
+      "390",
+      "370"
+    ],
+    "correctAnswer": "390"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 262. What is the original number?",
+    "choices": [
+      "210",
+      "244",
+      "212",
+      "177"
+    ],
+    "correctAnswer": "210"
+  },
+  {
+    "question": "Evaluate: (41 + 7) * 8",
+    "choices": [
+      "392",
+      "384",
+      "368",
+      "432"
+    ],
+    "correctAnswer": "384"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 430. What is the original number?",
+    "choices": [
+      "334",
+      "343",
+      "344",
+      "303"
+    ],
+    "correctAnswer": "344"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 334. What is the original number?",
+    "choices": [
+      "319",
+      "268",
+      "257",
+      "279"
+    ],
+    "correctAnswer": "279"
+  },
+  {
+    "question": "A container holds a mixture of 60 liters of water and alcohol in the ratio 2:1. How much alcohol is in the mixture?",
+    "choices": [
+      "20 liters",
+      "15 liters",
+      "18 liters",
+      "25 liters"
+    ],
+    "correctAnswer": "20 liters"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 457. What is the original number?",
+    "choices": [
+      "436",
+      "416",
+      "373",
+      "368"
+    ],
+    "correctAnswer": "416"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 1055. What is the original number?",
+    "choices": [
+      "844",
+      "829",
+      "842",
+      "859"
+    ],
+    "correctAnswer": "844"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 672. What is the original number?",
+    "choices": [
+      "517",
+      "498",
+      "558",
+      "550"
+    ],
+    "correctAnswer": "517"
+  },
+  {
+    "question": "Evaluate: (40 + 8) * 1",
+    "choices": [
+      "49",
+      "48",
+      "96",
+      "46"
+    ],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 1237. What is the original number?",
+    "choices": [
+      "954",
+      "990",
+      "1008",
+      "1020"
+    ],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Evaluate: (19 + 4) * 8",
+    "choices": [
+      "192",
+      "207",
+      "168",
+      "184"
+    ],
+    "correctAnswer": "184"
+  },
+  {
+    "question": "Evaluate: (46 + 5) * 2",
+    "choices": [
+      "104",
+      "98",
+      "153",
+      "102"
+    ],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "A number is increased by 20%. The result is 252. What is the original number?",
+    "choices": [
+      "216",
+      "218",
+      "210",
+      "165"
+    ],
+    "correctAnswer": "210"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 344. What is the original number?",
+    "choices": [
+      "220",
+      "250",
+      "300",
+      "265"
+    ],
+    "correctAnswer": "265"
+  },
+  {
+    "question": "Evaluate: (34 + 2) * 3",
+    "choices": [
+      "144",
+      "108",
+      "102",
+      "111"
+    ],
+    "correctAnswer": "108"
+  },
+  {
+    "question": "Evaluate: (37 + 6) * 2",
+    "choices": [
+      "86",
+      "82",
+      "129",
+      "88"
+    ],
+    "correctAnswer": "86"
+  },
+  {
+    "question": "Evaluate: (22 + 1) * 1",
+    "choices": [
+      "46",
+      "24",
+      "23",
+      "21"
+    ],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 636. What is the original number?",
+    "choices": [
+      "528",
+      "545",
+      "553",
+      "509"
+    ],
+    "correctAnswer": "509"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 1089. What is the original number?",
+    "choices": [
+      "1014",
+      "1013",
+      "944",
+      "990"
+    ],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "A number is increased by 10%. The result is 371. What is the original number?",
+    "choices": [
+      "303",
+      "322",
+      "338",
+      "343"
+    ],
+    "correctAnswer": "338"
+  },
+  {
+    "question": "A number is increased by 30%. The result is 1088. What is the original number?",
+    "choices": [
+      "788",
+      "836",
+      "837",
+      "815"
+    ],
+    "correctAnswer": "837"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 628. What is the original number?",
+    "choices": [
+      "532",
+      "503",
+      "456",
+      "509"
+    ],
+    "correctAnswer": "503"
+  },
+  {
+    "question": "Evaluate: (47 + 1) * 4",
+    "choices": [
+      "196",
+      "192",
+      "240",
+      "184"
+    ],
+    "correctAnswer": "192"
+  },
+  {
+    "question": "Evaluate: (29 + 12) * 9",
+    "choices": [
+      "369",
+      "378",
+      "410",
+      "351"
+    ],
+    "correctAnswer": "369"
+  },
+  {
+    "question": "A number is increased by 25%. The result is 935. What is the original number?",
+    "choices": [
+      "766",
+      "748",
+      "776",
+      "791"
+    ],
+    "correctAnswer": "748"
+  },
+  {
+    "question": "Evaluate: (37 + 17) * 1",
+    "choices": [
+      "52",
+      "55",
+      "108",
+      "54"
+    ],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "Evaluate: (28 + 11) * 9",
+    "choices": [
+      "351",
+      "333",
+      "360",
+      "390"
+    ],
+    "correctAnswer": "351"
+  },
+  {
+    "question": "Evaluate: (36 + 20) * 6",
+    "choices": [
+      "336",
+      "342",
+      "324",
+      "392"
+    ],
+    "correctAnswer": "336"
+  }
+]

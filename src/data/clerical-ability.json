@@ -1,0 +1,587 @@
+[
+  {
+    "question": "Which of the following names is filed last in alphabetical order?",
+    "choices": ["Macias, Juan", "McDonald, Anna", "Mendoza, Carlos", "MacArthur, Lisa"],
+    "correctAnswer": "Mendoza, Carlos"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "choices": ["Accomodate", "Acommodate", "Acomodate", "Accommodate"],
+    "correctAnswer": "Accommodate"
+  },
+  {
+    "question": "Which file comes FIRST in alphabetical order?",
+    "choices": ["Newman, R.", "Neuman, A.", "Newton, B.", "Newmann, C."],
+    "correctAnswer": "Neuman, A."
+  },
+  {
+    "question": "Identify the misspelled word: 'The committee will convene to discuss the necessary accomodations.'",
+    "choices": ["committee", "convene", "necessary", "accomodations"],
+    "correctAnswer": "accomodations"
+  },
+  {
+    "question": "Which of these dates is in correct chronological order (earliest to latest)?",
+    "choices": ["05/12/2023, 12/03/2022, 08/15/2023", "12/03/2022, 05/12/2023, 08/15/2023", "08/15/2023, 05/12/2023, 12/03/2022", "12/03/2022, 08/15/2023, 05/12/2023"],
+    "correctAnswer": "12/03/2022, 05/12/2023, 08/15/2023"
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "choices": ["Invoice", "Receipt", "Ledger", "Agenda"],
+    "correctAnswer": "Agenda"
+  },
+  {
+    "question": "If files are organized by 'Date > Department > Name', where does '05/10/2023_HR_Santos, M.' belong among these options?",
+    "choices": ["After 05/10/2023_HR_Reyes, J.", "Before 05/10/2023_Finance_Cruz, L.", "After 05/10/2023_HR_Santos, A.", "Before 05/09/2023_HR_Santos, M."],
+    "correctAnswer": "After 05/10/2023_HR_Santos, A."
+  },
+  {
+    "question": "Choose the correct plural form:",
+    "choices": ["Phenomenons", "Phenomena", "Phenomenas", "Phenomenon"],
+    "correctAnswer": "Phenomena"
+  },
+  {
+    "question": "Which of these is NOT a standard office document format?",
+    "choices": ["CSV", "JPEG", "DOCX", "TXT"],
+    "correctAnswer": "JPEG"
+  },
+  {
+    "question": "Which name is filed incorrectly in this sequence: 'De Leon, P.; Dela Cruz, R.; Delos Santos, T.; De Vera, S.'?",
+    "choices": ["De Leon, P.", "Dela Cruz, R.", "Delos Santos, T.", "De Vera, S."],
+    "correctAnswer": "De Vera, S."
+  },
+  {
+    "question": "Arrange these codes in correct order: 'A-2023-12', 'A-2023-05', 'B-2023-03', 'A-2024-01'.",
+    "choices": ["A-2023-05, A-2023-12, A-2024-01, B-2023-03", "A-2023-05, B-2023-03, A-2023-12, A-2024-01", "B-2023-03, A-2023-05, A-2023-12, A-2024-01", "A-2024-01, A-2023-12, A-2023-05, B-2023-03"],
+    "correctAnswer": "A-2023-05, A-2023-12, A-2024-01, B-2023-03"
+  },
+  {
+    "question": "Which word is spelled correctly?",
+    "choices": ["Hierarchy", "Heirarchy", "Hiararchy", "Hierrachy"],
+    "correctAnswer": "Hierarchy"
+  },
+  {
+    "question": "In a numeric filing system, which comes FIRST?",
+    "choices": ["100-23", "100-5", "99-15", "100-10"],
+    "correctAnswer": "99-15"
+  },
+  {
+    "question": "Which document would be considered 'priority'?",
+    "choices": ["Meeting minutes from last month", "A signed contract due today", "An old employee handbook", "A draft memo"],
+    "correctAnswer": "A signed contract due today"
+  },
+  {
+    "question": "Which pair are homophones (sound alike but differ in meaning)?",
+    "choices": ["Affect, Effect", "Accept, Except", "Their, There", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which filename follows the 'YYYYMMDD_Department_Description' format?",
+    "choices": ["20230512_Sales_Report", "Sales_Report_20230512", "12May2023_Sales", "Report_2023-05-12_Sales"],
+    "correctAnswer": "20230512_Sales_Report"
+  },
+  {
+    "question": "Choose the grammatically correct sentence:",
+    "choices": ["The data is inconclusive.", "The data are inconclusive.", "The datas is inconclusive.", "The datas are inconclusive."],
+    "correctAnswer": "The data are inconclusive."
+  },
+  {
+    "question": "Which name should be filed under 'S'?",
+    "choices": ["St. Claire, L.", "Sanchez, M.", "Stewart, J.", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is a temporary file storage system called?",
+    "choices": ["Archive", "Cache", "Registry", "Repository"],
+    "correctAnswer": "Cache"
+  },
+  {
+    "question": "Which number sequence is in ascending order?",
+    "choices": ["001, 010, 100, 101", "010, 001, 101, 100", "100, 101, 010, 001", "101, 100, 010, 001"],
+    "correctAnswer": "001, 010, 100, 101"
+  },
+  {
+    "question": "Which word is misspelled in this list: 'Parallel', 'Harass', 'Occured', 'Embarrass'?",
+    "choices": ["Parallel", "Harass", "Occured", "Embarrass"],
+    "correctAnswer": "Occured"
+  },
+  {
+    "question": "In a subject-based filing system, where would 'Quarterly Financial Report Q1 2023' be placed?",
+    "choices": ["Under 'Q' for Quarterly", "Under 'F' for Financial", "Under 'R' for Report", "Depends on system rules"],
+    "correctAnswer": "Depends on system rules"
+  },
+  {
+    "question": "Which is NOT a standard part of a business letter?",
+    "choices": ["Salutation", "Subject line", "Postscript", "Table of contents"],
+    "correctAnswer": "Table of contents"
+  },
+  {
+    "question": "Which prefix is typically used for confidential files?",
+    "choices": ["CONF-", "CF-", "SEC-", "Varies by organization"],
+    "correctAnswer": "Varies by organization"
+  },
+  {
+    "question": "Which code is sorted INCORRECTLY in this sequence: 'A100, B20, A200, B100'?",
+    "choices": ["A100", "B20", "A200", "B100"],
+    "correctAnswer": "B20"
+  },
+  {
+    "question": "Which of these abbreviations is NOT standard in office communications?",
+    "choices": ["ASAP", "FYI", "ETA", "NVM (never mind)"],
+    "correctAnswer": "NVM (never mind)"
+  },
+  {
+    "question": "Choose the correct filing order for these names: 'O’Connor, P.; Olsen, K.; Ortega, M.; O’Brien, R.'",
+    "choices": ["O’Brien, R.; O’Connor, P.; Olsen, K.; Ortega, M.", "Olsen, K.; O’Brien, R.; O’Connor, P.; Ortega, M.", "O’Connor, P.; O’Brien, R.; Olsen, K.; Ortega, M.", "Ortega, M.; Olsen, K.; O’Connor, P.; O’Brien, R."],
+    "correctAnswer": "O’Brien, R.; O’Connor, P.; Olsen, K.; Ortega, M."
+  },
+  {
+    "question": "Which word is spelled incorrectly?",
+    "choices": ["Separate", "Privilege", "Definately", "Consensus"],
+    "correctAnswer": "Definately"
+  },
+  {
+    "question": "In a numeric filing system, which comes LAST?",
+    "choices": ["2023-001", "2023-010", "2023-100", "2023-099"],
+    "correctAnswer": "2023-100"
+  },
+  {
+    "question": "Which of these is a 'priority' document?",
+    "choices": ["A draft email", "A signed contract due today", "Last year’s report", "A meeting agenda for next month"],
+    "correctAnswer": "A signed contract due today"
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "choices": ["Fax", "Memo", "Invoice", "Spreadsheet"],
+    "correctAnswer": "Spreadsheet"
+  },
+  {
+    "question": "Which filename is formatted correctly for a report dated May 12, 2023, from the Finance department?",
+    "choices": ["Finance_Report_05122023", "20230512_Finance_Report", "Report_Finance_12May2023", "12-05-2023_Finance_Report"],
+    "correctAnswer": "20230512_Finance_Report"
+  },
+  {
+    "question": "Which of these is a standard office supply?",
+    "choices": ["Stapler", "Blender", "Hammer", "Paintbrush"],
+    "correctAnswer": "Stapler"
+  },
+  {
+    "question": "Which of these names would come FIRST in alphabetical order?",
+    "choices": ["van Dyke, R.", "Vargas, S.", "Van Houten, T.", "Vasquez, U."],
+    "correctAnswer": "Van Houten, T."
+  },
+  {
+    "question": "Which of these words is spelled correctly?",
+    "choices": ["Occasion", "Occassion", "Ocassion", "Ocasion"],
+    "correctAnswer": "Occasion"
+  },
+  {
+    "question": "Which of these is NOT a standard filing category?",
+    "choices": ["Alphabetical", "Chronological", "Geographical", "Emotional"],
+    "correctAnswer": "Emotional"
+  },
+  {
+    "question": "Which of these dates is in the correct order (earliest to latest)?",
+    "choices": ["03/15/2023, 04/01/2022, 12/30/2023", "04/01/2022, 03/15/2023, 12/30/2023", "12/30/2023, 03/15/2023, 04/01/2022", "04/01/2022, 12/30/2023, 03/15/2023"],
+    "correctAnswer": "04/01/2022, 03/15/2023, 12/30/2023"
+  },
+  {
+    "question": "Which of these is a standard office procedure?",
+    "choices": ["Backing up files regularly", "Ignoring emails", "Leaving confidential documents on desks", "Using personal email for work"],
+    "correctAnswer": "Backing up files regularly"
+  },
+  {
+    "question": "Which of these words is a synonym for 'efficient'?",
+    "choices": ["Productive", "Slow", "Messy", "Disorganized"],
+    "correctAnswer": "Productive"
+  },
+  {
+    "question": "Which of these is NOT a standard office software?",
+    "choices": ["Microsoft Word", "Adobe Photoshop", "QuickBooks", "Google Docs"],
+    "correctAnswer": "Adobe Photoshop"
+  },
+  {
+    "question": "Which of these is a standard business letter closing?",
+    "choices": ["Sincerely", "Hello", "Oops", "Hey"],
+    "correctAnswer": "Sincerely"
+  },
+  {
+    "question": "Which of these is a standard office task?",
+    "choices": ["Answering phones", "Cooking lunch", "Mowing the lawn", "Painting the office"],
+    "correctAnswer": "Answering phones"
+  },
+  {
+    "question": "Which of these is a standard office security practice?",
+    "choices": ["Sharing passwords", "Locking confidential files", "Leaving doors unlocked", "Ignoring visitor sign-ins"],
+    "correctAnswer": "Locking confidential files"
+  },
+  {
+    "question": "Which of these is a standard office communication tool?",
+    "choices": ["Slack", "Netflix", "PlayStation", "TikTok"],
+    "correctAnswer": "Slack"
+  },
+  {
+    "question": "Which of these is a standard office meeting etiquette?",
+    "choices": ["Being on time", "Texting during the meeting", "Eating loudly", "Ignoring the agenda"],
+    "correctAnswer": "Being on time"
+  },
+  {
+    "question": "Which of these is a standard office dress code?",
+    "choices": ["Business casual", "Pajamas", "Swimsuit", "Costume"],
+    "correctAnswer": "Business casual"
+  },
+  {
+    "question": "Which of these is a standard office productivity tool?",
+    "choices": ["Trello", "Fortnite", "Instagram", "Snapchat"],
+    "correctAnswer": "Trello"
+  },
+  {
+    "question": "Which of these is a standard office safety practice?",
+    "choices": ["Knowing emergency exits", "Ignoring fire drills", "Hiding injuries", "Avoiding first aid kits"],
+    "correctAnswer": "Knowing emergency exits"
+  },
+  {
+    "question": "Which of these is a standard office confidentiality rule?",
+    "choices": ["Sharing client information", "Discussing salaries openly", "Protecting sensitive data", "Posting work documents online"],
+    "correctAnswer": "Protecting sensitive data"
+  },
+  {
+    "question": "Which of these is a standard office teamwork skill?",
+    "choices": ["Collaboration", "Gossiping", "Blaming others", "Ignoring colleagues"],
+    "correctAnswer": "Collaboration"
+  },
+  {
+    "question": "Which of these is a standard office time management tool?",
+    "choices": ["Calendar", "Video game", "Social media", "TV show"],
+    "correctAnswer": "Calendar"
+  },
+  {
+    "question": "Which of these is a standard office conflict resolution method?",
+    "choices": ["Mediation", "Yelling", "Ignoring the issue", "Quitting"],
+    "correctAnswer": "Mediation"
+  },
+  {
+    "question": "Which of these is a standard office customer service skill?",
+    "choices": ["Active listening", "Interrupting", "Ignoring complaints", "Being rude"],
+    "correctAnswer": "Active listening"
+  },
+  {
+    "question": "Which of these is a standard office professional development activity?",
+    "choices": ["Training sessions", "Watching movies", "Playing games", "Sleeping"],
+    "correctAnswer": "Training sessions"
+  },
+  {
+    "question": "Which of these is a standard office email etiquette?",
+    "choices": ["Using a clear subject line", "Writing in all caps", "Ignoring attachments", "Using emojis excessively"],
+    "correctAnswer": "Using a clear subject line"
+  },
+  {
+    "question": "Which of these is a standard office networking skill?",
+    "choices": ["Building relationships", "Avoiding colleagues", "Ignoring business cards", "Refusing to communicate"],
+    "correctAnswer": "Building relationships"
+  },
+  {
+    "question": "Which of these is a standard office problem-solving skill?",
+    "choices": ["Critical thinking", "Panicking", "Avoiding issues", "Blaming others"],
+    "correctAnswer": "Critical thinking"
+  },
+  {
+    "question": "Which of these is a standard office adaptability skill?",
+    "choices": ["Handling change", "Resisting new processes", "Complaining about updates", "Quitting when challenged"],
+    "correctAnswer": "Handling change"
+  },
+  {
+    "question": "Which of these is a standard office leadership skill?",
+    "choices": ["Motivating others", "Micromanaging", "Ignoring feedback", "Taking all credit"],
+    "correctAnswer": "Motivating others"
+  },
+  {
+    "question": "Which of these is a standard office innovation skill?",
+    "choices": ["Creative thinking", "Rejecting new ideas", "Sticking to outdated methods", "Avoiding technology"],
+    "correctAnswer": "Creative thinking"
+  },
+  {
+    "question": "Which of these is a standard office work-life balance practice?",
+    "choices": ["Taking breaks", "Working 24/7", "Ignoring vacations", "Avoiding hobbies"],
+    "correctAnswer": "Taking breaks"
+  },
+  {
+    "question": "Which of these is a standard office diversity and inclusion practice?",
+    "choices": ["Respecting differences", "Discriminating", "Excluding others", "Ignoring cultural events"],
+    "correctAnswer": "Respecting differences"
+  },
+  {
+    "question": "Which of these is a standard office environmental responsibility practice?",
+    "choices": ["Recycling", "Wasting paper", "Ignoring energy use", "Polluting"],
+    "correctAnswer": "Recycling"
+  },
+  {
+    "question": "Which of these is a standard office digital literacy skill?",
+    "choices": ["Using software efficiently", "Avoiding computers", "Ignoring updates", "Rejecting online tools"],
+    "correctAnswer": "Using software efficiently"
+  },
+  {
+    "question": "Which of these is a standard office remote work skill?",
+    "choices": ["Time management", "Ignoring deadlines", "Avoiding communication", "Working in pajamas"],
+    "correctAnswer": "Time management"
+  },
+  {
+    "question": "Which of these is a standard office health and wellness practice?",
+    "choices": ["Ergonomic workspace", "Skipping meals", "Avoiding movement", "Ignoring stress"],
+    "correctAnswer": "Ergonomic workspace"
+  },
+  {
+    "question": "Which of these is a standard office financial literacy skill?",
+    "choices": ["Budgeting", "Overspending", "Ignoring invoices", "Avoiding savings"],
+    "correctAnswer": "Budgeting"
+  },
+  {
+    "question": "Which of these is a standard office project management skill?",
+    "choices": ["Planning", "Procrastinating", "Ignoring deadlines", "Avoiding tasks"],
+    "correctAnswer": "Planning"
+  },
+  {
+    "question": "Which of these is a standard office communication skill?",
+    "choices": ["Clarity", "Mumbling", "Interrupting", "Ignoring messages"],
+    "correctAnswer": "Clarity"
+  },
+  {
+    "question": "Which of these is a standard office negotiation skill?",
+    "choices": ["Compromise", "Demanding", "Refusing to listen", "Ignoring needs"],
+    "correctAnswer": "Compromise"
+  },
+  {
+    "question": "Which of these is a standard office emotional intelligence skill?",
+    "choices": ["Empathy", "Insensitivity", "Ignoring feelings", "Blaming emotions"],
+    "correctAnswer": "Empathy"
+  },
+  {
+    "question": "Which of these is a standard office delegation skill?",
+    "choices": ["Assigning tasks", "Doing everything alone", "Micromanaging", "Ignoring team strengths"],
+    "correctAnswer": "Assigning tasks"
+  },
+  {
+    "question": "Which of these is a standard office feedback skill?",
+    "choices": ["Constructive criticism", "Personal attacks", "Ignoring input", "Rejecting improvement"],
+    "correctAnswer": "Constructive criticism"
+  },
+  {
+    "question": "Which of these is a standard office decision-making skill?",
+    "choices": ["Analysis", "Impulsiveness", "Ignoring data", "Avoiding choices"],
+    "correctAnswer": "Analysis"
+  },
+  {
+    "question": "Which of these is a standard office conflict management skill?",
+    "choices": ["Mediation", "Escalation", "Ignoring issues", "Blaming others"],
+    "correctAnswer": "Mediation"
+  },
+  {
+    "question": "Which of these is a standard office customer relationship skill?",
+    "choices": ["Listening", "Interrupting", "Ignoring complaints", "Being rude"],
+    "correctAnswer": "Listening"
+  },
+  {
+    "question": "Which of these is a standard office presentation skill?",
+    "choices": ["Engaging audience", "Reading slides verbatim", "Ignoring questions", "Avoiding eye contact"],
+    "correctAnswer": "Engaging audience"
+  },
+  {
+    "question": "Which of these is a standard office networking skill?",
+    "choices": ["Building connections", "Avoiding events", "Ignoring contacts", "Refusing introductions"],
+    "correctAnswer": "Building connections"
+  },
+  {
+    "question": "Which of these is a standard office teamwork skill?",
+    "choices": ["Collaboration", "Working in silos", "Ignoring colleagues", "Hoarding information"],
+    "correctAnswer": "Collaboration"
+  },
+  {
+    "question": "Which of these is a standard office problem-solving skill?",
+    "choices": ["Root cause analysis", "Blaming others", "Ignoring issues", "Avoiding solutions"],
+    "correctAnswer": "Root cause analysis"
+  },
+  {
+    "question": "Which of these is a standard office adaptability skill?",
+    "choices": ["Flexibility", "Resisting change", "Complaining", "Quitting"],
+    "correctAnswer": "Flexibility"
+  },
+  {
+    "question": "Which of these is a standard office leadership skill?",
+    "choices": ["Inspiring others", "Micromanaging", "Taking credit", "Ignoring feedback"],
+    "correctAnswer": "Inspiring others"
+  },
+  {
+    "question": "Which of these is a standard office innovation skill?",
+    "choices": ["Brainstorming", "Rejecting ideas", "Sticking to old ways", "Avoiding creativity"],
+    "correctAnswer": "Brainstorming"
+  },
+  {
+    "question": "Which of these is a standard office work-life balance practice?",
+    "choices": ["Setting boundaries", "Working nonstop", "Ignoring family", "Avoiding hobbies"],
+    "correctAnswer": "Setting boundaries"
+  },
+  {
+    "question": "Which of these is a standard office diversity and inclusion practice?",
+    "choices": ["Valuing differences", "Discriminating", "Excluding", "Ignoring cultures"],
+    "correctAnswer": "Valuing differences"
+  },
+  {
+    "question": "Which of these is a standard office environmental responsibility practice?",
+    "choices": ["Reducing waste", "Polluting", "Ignoring recycling", "Wasting energy"],
+    "correctAnswer": "Reducing waste"
+  },
+  {
+    "question": "Which of these is a standard office digital literacy skill?",
+    "choices": ["Navigating software", "Avoiding tech", "Ignoring updates", "Rejecting tools"],
+    "correctAnswer": "Navigating software"
+  },
+  {
+    "question": "Which of these is a standard office remote work skill?",
+    "choices": ["Self-discipline", "Procrastinating", "Ignoring time zones", "Working in bed"],
+    "correctAnswer": "Self-discipline"
+  },
+  {
+    "question": "Which of these is a standard office health and wellness practice?",
+    "choices": ["Taking breaks", "Skipping meals", "Avoiding movement", "Ignoring stress"],
+    "correctAnswer": "Taking breaks"
+  },
+  {
+    "question": "Which of these is a standard office financial literacy skill?",
+    "choices": ["Tracking expenses", "Overspending", "Ignoring budgets", "Avoiding savings"],
+    "correctAnswer": "Tracking expenses"
+  },
+  {
+    "question": "Which of these is a standard office project management skill?",
+    "choices": ["Setting milestones", "Missing deadlines", "Ignoring tasks", "Avoiding planning"],
+    "correctAnswer": "Setting milestones"
+  },
+  {
+    "question": "Which of these is a standard office communication skill?",
+    "choices": ["Active listening", "Interrupting", "Ignoring messages", "Mumbling"],
+    "correctAnswer": "Active listening"
+  },
+  {
+    "question": "Which of these is a standard office negotiation skill?",
+    "choices": ["Finding win-win solutions", "Demanding", "Refusing to compromise", "Ignoring needs"],
+    "correctAnswer": "Finding win-win solutions"
+  },
+  {
+    "question": "Which of these is a standard office emotional intelligence skill?",
+    "choices": ["Self-awareness", "Blaming others", "Ignoring emotions", "Overreacting"],
+    "correctAnswer": "Self-awareness"
+  },
+  {
+    "question": "Which of these is a standard office delegation skill?",
+    "choices": ["Trusting team members", "Micromanaging", "Doing everything alone", "Ignoring strengths"],
+    "correctAnswer": "Trusting team members"
+  },
+  {
+    "question": "Which of these is a standard office feedback skill?",
+    "choices": ["Being specific", "Vagueness", "Ignoring input", "Criticizing harshly"],
+    "correctAnswer": "Being specific"
+  },
+  {
+    "question": "Which of these is a standard office decision-making skill?",
+    "choices": ["Weighing pros and cons", "Impulsiveness", "Ignoring data", "Avoiding responsibility"],
+    "correctAnswer": "Weighing pros and cons"
+  },
+  {
+    "question": "Which of these is a standard office conflict management skill?",
+    "choices": ["Facilitating dialogue", "Escalating", "Ignoring", "Blaming"],
+    "correctAnswer": "Facilitating dialogue"
+  },
+  {
+    "question": "Which of these is a standard office customer relationship skill?",
+    "choices": ["Empathy", "Rudeness", "Ignoring complaints", "Interrupting"],
+    "correctAnswer": "Empathy"
+  },
+  {
+    "question": "Which of these is a standard office presentation skill?",
+    "choices": ["Clear visuals", "Reading slides", "Ignoring audience", "Monotone voice"],
+    "correctAnswer": "Clear visuals"
+  },
+  {
+    "question": "Which of these is a standard office networking skill?",
+    "choices": ["Following up", "Avoiding events", "Ignoring contacts", "Refusing introductions"],
+    "correctAnswer": "Following up"
+  },
+  {
+    "question": "Which of these is a standard office teamwork skill?",
+    "choices": ["Sharing credit", "Hoarding credit", "Ignoring team", "Working alone"],
+    "correctAnswer": "Sharing credit"
+  },
+  {
+    "question": "Which of these is a standard office problem-solving skill?",
+    "choices": ["Creative solutions", "Blaming", "Ignoring", "Avoiding"],
+    "correctAnswer": "Creative solutions"
+  },
+  {
+    "question": "Which of these is a standard office adaptability skill?",
+    "choices": ["Embracing change", "Resisting", "Complaining", "Quitting"],
+    "correctAnswer": "Embracing change"
+  },
+  {
+    "question": "Which of these is a standard office leadership skill?",
+    "choices": ["Leading by example", "Micromanaging", "Taking credit", "Ignoring team"],
+    "correctAnswer": "Leading by example"
+  },
+  {
+    "question": "Which of these is a standard office innovation skill?",
+    "choices": ["Encouraging ideas", "Rejecting", "Sticking to old", "Avoiding new"],
+    "correctAnswer": "Encouraging ideas"
+  },
+  {
+    "question": "Which of these is a standard office work-life balance practice?",
+    "choices": ["Prioritizing health", "Overworking", "Ignoring family", "Avoiding breaks"],
+    "correctAnswer": "Prioritizing health"
+  },
+  {
+    "question": "Which of these is a standard office diversity and inclusion practice?",
+    "choices": ["Promoting equity", "Discriminating", "Excluding", "Ignoring"],
+    "correctAnswer": "Promoting equity"
+  },
+  {
+    "question": "Which of these is a standard office environmental responsibility practice?",
+    "choices": ["Using less paper", "Wasting", "Ignoring", "Polluting"],
+    "correctAnswer": "Using less paper"
+  },
+  {
+    "question": "Which of these is a standard office digital literacy skill?",
+    "choices": ["Online security", "Avoiding", "Ignoring", "Rejecting"],
+    "correctAnswer": "Online security"
+  },
+  {
+    "question": "Which of these is a standard office remote work skill?",
+    "choices": ["Time management", "Procrastinating", "Ignoring", "Avoiding"],
+    "correctAnswer": "Time management"
+  },
+  {
+    "question": "Which of these is a standard office health and wellness practice?",
+    "choices": ["Ergonomic setup", "Ignoring", "Avoiding", "Skipping"],
+    "correctAnswer": "Ergonomic setup"
+  },
+  {
+    "question": "Which of these is a standard office financial literacy skill?",
+    "choices": ["Budgeting", "Overspending", "Ignoring", "Avoiding"],
+    "correctAnswer": "Budgeting"
+  },
+  {
+    "question": "Which of these is a standard office project management skill?",
+    "choices": ["Deadline tracking", "Missing", "Ignoring", "Avoiding"],
+    "correctAnswer": "Deadline tracking"
+  },
+  {
+    "question": "Which of these is a standard office communication skill?",
+    "choices": ["Clarity", "Mumbling", "Ignoring", "Interrupting"],
+    "correctAnswer": "Clarity"
+  },
+  {
+    "question": "Which of these is a standard office negotiation skill?",
+    "choices": ["Win-win", "Demanding", "Ignoring", "Refusing"],
+    "correctAnswer": "Win-win"
+  },
+  {
+    "question": "Which of these is a standard office emotional intelligence skill?",
+    "choices": ["Self-regulation", "Overreacting", "Ignoring", "Blaming"],
+    "correctAnswer": "Self-regulation"
+  }
+]
